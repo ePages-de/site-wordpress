@@ -65,6 +65,8 @@ While setting up your shop you should especially take care of these steps:
 
 Installing the WordPress plugin
 
+When you are using a WordPress version higher than 5.02 make sure you switched to the classic editor. Using the Gutenberg Block editor you currently cannot add shop components to pages. Learn about the editor switch on this page https://gutenberghub.com/how-to-switch-between-wordpress-classic-editor-and-gutenberg/.
+
 1. In the administration area of your WordPress website, select *Plugins* and then *Add new*.
 2. Enter 'ePages e-commerce' into the search field in the upper right corner.
 3. Select *Install now* for the ePages Online Shop plugin.
